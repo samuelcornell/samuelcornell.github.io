@@ -3,6 +3,21 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>https://samuelcornell.com/</loc>
+    <lastmod>2020-01-15T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://samuelcornell.com/post/writing/</loc>
+    <lastmod>2020-01-15T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://samuelcornell.com/post/</loc>
+    <lastmod>2020-01-15T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc></loc>
     <lastmod>2019-07-28T00:00:00+00:00</lastmod>
   </url>
@@ -78,11 +93,6 @@
   </url>
   
   <url>
-    <loc>https://samuelcornell.com/</loc>
-    <lastmod>2019-07-28T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
     <loc>https://samuelcornell.com/tags/</loc>
     <lastmod>2019-07-28T00:00:00+00:00</lastmod>
   </url>
@@ -93,14 +103,6 @@
   
   <url>
     <loc></loc>
-  </url>
-  
-  <url>
-    <loc>https://samuelcornell.com/post/writing/futureprivacy/</loc>
-  </url>
-  
-  <url>
-    <loc>https://samuelcornell.com/post/</loc>
   </url>
   
 </urlset>

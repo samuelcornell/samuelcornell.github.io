@@ -5,7 +5,7 @@
     <link>https://samuelcornell.com/</link>
       <atom:link href="https://samuelcornell.com/index.xml" rel="self" type="application/rss+xml" />
     <description>Samuel Cornell</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Sun, 28 Jul 2019 00:00:00 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Wed, 15 Jan 2020 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://samuelcornell.com/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
       <title>Samuel Cornell</title>
@@ -13,18 +13,10 @@
     </image>
     
     <item>
-      <title>Clinician perception of a novel cardiovascular lifestyle prescription form in the primary and secondary care setting in Wales, UK</title>
-      <link>https://samuelcornell.com/publication/cornell-clinician-2019/</link>
-      <pubDate>Sun, 28 Jul 2019 00:00:00 +0000</pubDate>
-      <guid>https://samuelcornell.com/publication/cornell-clinician-2019/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>The Future of Privacy</title>
-      <link>https://samuelcornell.com/post/writing/futureprivacy/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://samuelcornell.com/post/writing/futureprivacy/</guid>
+      <link>https://samuelcornell.com/post/writing/</link>
+      <pubDate>Wed, 15 Jan 2020 00:00:00 +0000</pubDate>
+      <guid>https://samuelcornell.com/post/writing/</guid>
       <description>&lt;p&gt;Free markets are the dominant economic forces of capitalist countries and it’s the power of such forces that have shaped the modern world. However, markets can’t and don’t solve every issue, privacy is a clear example.&lt;/p&gt;
 &lt;p&gt;Companies operating in free markets are only sufficiently incentivised to adopt ethical trading practices, such as respecting privacy, when their customers (or users) arrange in large enough numbers to make their voices heard and demand them. There’s no doubt that this happens over time - it would be disingenuous to deny that progress can be a direct result of market demand. To see this in action one only need look at the current boom in vegan products being adopted by powerful food retailers, such as KFC with Beyond Chicken, or supermarkets pledging to go “plastic free” or use exclusively sustainable packaging.
 In the domain of internet technology, scandal after scandal has resulted in more granular privacy controls for users, like the option to choose app permissions or to choose smaller friend circles on Facebook. Similarly, concerns over issues like privacy have led to other companies gaining traction by appealing to privacy concerns, for example, offering VPNs (like ExpressVPN), or encrypted email services (like Protonmail).&lt;/p&gt;
@@ -38,6 +30,14 @@ In light of the above, it would be logical to conclude that greater governmental
 &lt;p&gt;Nevertheless the positives of government interference in the workings of the online world must be balanced against the potential negatives, particularly given that governments can be as much or even more of a watching overlord than private companies, with arguably more worrying consequences. One may prefer to live in Trump’s America than under the eye of East Germany’s Stasi.
 As governments continue to demand backdoors be built into personal electronic communications devices to enable state spying, it’s clear that ideal legislation would protect citizens’ privacy from both private entities and state governments. At present – trust neither.&lt;/p&gt;
 </description>
+    </item>
+    
+    <item>
+      <title>Clinician perception of a novel cardiovascular lifestyle prescription form in the primary and secondary care setting in Wales, UK</title>
+      <link>https://samuelcornell.com/publication/cornell-clinician-2019/</link>
+      <pubDate>Sun, 28 Jul 2019 00:00:00 +0000</pubDate>
+      <guid>https://samuelcornell.com/publication/cornell-clinician-2019/</guid>
+      <description></description>
     </item>
     
   </channel>
