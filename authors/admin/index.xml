@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Samuel Cornell</title>
+    <link>https://samuelcornell.com/authors/admin/</link>
+      <atom:link href="https://samuelcornell.com/authors/admin/index.xml" rel="self" type="application/rss+xml" />
+    <description>Samuel Cornell</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language>
+    <image>
+      <url>https://samuelcornell.com/authors/admin/avatar_hu7b0c3b35e8da4af87330decc9fcad99a_934174_270x270_fill_q75_lanczos_center.jpg</url>
+      <title>Samuel Cornell</title>
+      <link>https://samuelcornell.com/authors/admin/</link>
+    </image>
+    
+  </channel>
+</rss>
