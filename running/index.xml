@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Running | SAMUEL CORNELL</title>
+    <link>https://samuelcornell.com/running/</link>
+      <atom:link href="https://samuelcornell.com/running/index.xml" rel="self" type="application/rss+xml" />
+    <description>Running</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>© Samuel Cornell 2021</copyright><lastBuildDate>Wed, 15 Jan 2020 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://samuelcornell.com/media/icon_hua2ec155b4296a9c9791d015323e16eb5_11927_512x512_fill_lanczos_center_2.png</url>
+      <title>Running</title>
+      <link>https://samuelcornell.com/running/</link>
+    </image>
+    
+    <item>
+      <title>The Grand Goal of One Hundred Miles</title>
+      <link>https://samuelcornell.com/running/the-grand-goal-of-one-hundred-miles/</link>
+      <pubDate>Wed, 15 Jan 2020 00:00:00 +0000</pubDate>
+      <guid>https://samuelcornell.com/running/the-grand-goal-of-one-hundred-miles/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
